@@ -37,7 +37,7 @@ export default function Hero(){
         <div>
           <video class="h-full w-full rounded-lg" controls>
            <source
-           src="https://docs.material-tailwind.com/demo.mp4"
+           src="/tdrcar.mp4"
            type="video/mp4"
            />
            Your browser does not support the video tag.
